@@ -48,7 +48,7 @@ También puedes agregar la librería manualmente como referencia en tu proyecto.
 
 **1. Descargar compilado DLL:**
 
-- Ve a la sección [Releases](https://github.com/lunasoft/sw-tools-net/releases) de este repositorio.
+- Ve a la sección [Releases](https://github.com/swsapiendev/sw-tools-net/releases) de este repositorio.
 - Selecciona la versión que deseas agregar, haz clic en la sección "Assets" y selecciona el .zip con el nombre sw-tools-net para descargar el compilado.
 
 **2. Descomprimir el archivo ZIP:**
@@ -143,7 +143,7 @@ var privateCert = result.Data.PrivateCert;
 
 ## Contribuir
 
-Si deseas contribuir, puedes hacerlo a través de pull requests y reportando el issue [aqui](https://github.com/lunasoft/sw-tools-net/issues).
+Si deseas contribuir, puedes hacerlo a través de pull requests y reportando el issue [aqui](https://github.com/swsapiendev/sw-tools-net/issues).
 
 Si requieres soporte, envíanos un correo a [soporte@sw.com.mx](mailto:soporte@sw.com.mx).
 
